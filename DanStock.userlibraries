@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<eclipse-userlibraries>
-  <library name="DanStock">
-    <archive path="D:/dev/projects/DanStock/out/artifacts/DanStock_jar/DanStock.jar" />
-  </library>
-  <library name="sass-stdlib" />
-</eclipse-userlibraries>
-
