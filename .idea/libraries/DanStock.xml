@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="DanStock">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/DanStock_jar/DanStock.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
